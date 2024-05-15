@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="eng"
+<head>
+	<meta charset="utf-8"/>
+	<title>Remember Me .LLC- Company</title>
+
+<style>
+body {
+	background: #B22222;
+	font-family: verdon, Tahama,Arial,sans-serif;
+	font-size: 18px;
+	overflow: auto;
+}
+h1, h2, h3 {
+	text-align: center;
+	padding-left; 5%
+	color: #878E63;
+
+}
+p{
+	padding: 2%;
+	color: #878E63;
+}
+img {
+	text-align: center;
+	max-width: 100%
+	height: auto;
+	width: auto;
+
+}
+#wrapper {
+	margin: 0 auto;
+	max width: 1020px;
+	width: 98%;
+	background:#FEFBE8;
+	border: 1px solid #000000;
+	border-radius: 2xp;
+	box-shadow: 0 0 10px 0px rgbo(12,3,25,0,8);
+}
+#callout {
+	width:100%;
+	height:auto;
+	background:#000000;
+	overflow: hidden;
+}
+#callout p {
+	text-align: right;
+	font-size:13px;
+	padding: 0.1% 5% 0 0;
+	color: #F1F0D1;
+
+}
+#callout p{
+	text-align:right;
+	font-size: 13px;
+	padding: 0.1% 5% 0 0;
+	color:#F1F0D1
+
+}
+#callout p a {
+	color:#F1F0D1
+	text-decoration: none;
+
+}
+header {
+	width:96%
+	min-height: 125px
+	padding: 5px
+	text-align: center;
+
+}
+nav ul {
+	list-style:none;
+	margin: 0;
+	padding-left: 50px;
+}
+nav ul li {
+	float: left;
+	border: 1xp solid #878E63;
+	width: 15%;
+}
+nav ul li a {
+	background: #F1F0D1;
+	display: block;
+	padding: 5% 12%
+	font-weight: bold;
+	font-size: 18px;
+	color:#878E63;
+	text-decoration: none;
+	text-align: center;
+}
+nav ul li a:hover,nav ul li.active a {
+	background-color:#B22222;
+	color: #000000;	
+}
+.banner img {
+	width:100%
+	border-top: 1px solid #878E63
+	border-bottom: 1px solid #878E63;
+
+}
+.clearfix {
+	clear: both;
+}
+.left-col {
+	width: 55%
+	float: left;
+	margin: -2% 1% 1% 1%;
+}
+.sidebar {
+	width: 40%;
+	float: right;
+	margin: 1%;
+	text-align: center;
+}
+.section {
+	width:29%;
+	float: left;
+	margin:2% 2%;
+	text-align:center;
+}
+footer {
+	background:#000000;
+	width: 100%;
+	overflow: hidden;
+}
+footer p,footer h3 {
+	color: #F1F0D1;
+}
+footer p a  {
+	color: #F1F0D1;
+	text-decoration: none;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	display:inline;
+}
+ul li img {
+	height: 50px;
+}
+/*----------------------MEDIA!!!!------------------*/
+@media screen and (max-width: 478px) {
+	body {
+	font-size: 13px;
+	}
+}
+@media screen and (max-width: 740px) {
+    nav {
+	width: 100%;
+	margin-bottom:10px;
+
+    nav ul{
+	list-style:none;
+	margin:0 auto;
+	padding-left: 0;
+}
+    nav ul li  {
+	text-align: center;
+	margin-left: 0 auto;
+	width: 100%;
+	border-top: 1px solid #878E63
+	border-right: 0px solid #878E63
+	border-bottom: 1px solid #878E63
+	border-left: 0px solid #878E63
+}	
+    nav ul li a {
+	padding: 8px 0;
+	font-size: 16px;
+}
+    .left-col {
+	width: 100%;
+}
+    .sidebar {
+	width: 100%
+}
+    .section {
+	float: left;
+	width: 100%
+	margin: 0;
+}
+
+
+</style>
+</head>
+
+
+<body>
+	<div id="wrapper">
+			<div id="callout">
+			<p><b>Life is but Dream</b></p>
+
+		</div>
+			
+		
+		<header>
+			<a href="#"><center><img src="rm1.jpeg"height="200" width="200"></center></a>
+
+		</header>
+		<nav>
+		<ul>
+				<li><a href="website1.html">Home</a></li>
+				<li><a href="website3.html">Products</a></li>
+
+				<li><a href="website2.html">Sales Information</a></li>
+				<li><a href="website4.html">Feedback</a></li>
+				<li><a href="#"></a></li>
+		</ul>
+		<div class="clearfix"></div>
+		</nav>
+
+		<div class="banner">
+		<p>
+			<center><h1>REMEMBER ME .LLC</h1></center>
+		</p>
+
+		<section class="left-col">
+
+				<p><center><h1>REMEMBER ME .LLC</h1></center></p>
+			<p style="text-indent:50px"> Remember Me LLC was established in 2012. Even before Remember Me LLC was established in 2012 it started as a spark in the heart of Sophia, deep down she knew that she wanted to start a company that was different from other companies, a company that truly values its customers. Remember Me LLC is a family friendly company that was founded on good, solid principles. We believe in providing our customers with great, prompt customer service and quality products. We specialize in unique products that are not found everywhere.  </p>
+			<p style="text-indent:50px"> At Remember Me LLC we strive to make sure that our customers are 100% satisfied with our service and products by implementing our famous RM100 guarantee, which guarantees that our customers are 100% satisfied with both our service and products. Here at Remember Me LLC we take pride in our company and we are ever humble, realizing that without the customer we would not exist.</p>
+
+
+		</section>
+
+		<aside class="sidebar">
+			<img src=" " alt=" "/>
+
+			
+		</aside>
+
+		
+		<footer>
+			<div class="section">
+				<p>Remember Me LLC by S.Leigh</p>
+				<p><b>678-852-9918</b></p>
+				2106 Mulberry Ln<br>
+				Lithonia,GA 3058<br>
+				Rememberme_1865@yahoo.com</p>
+				</div>	
+			<div class="section">
+				<p>Connect With Us!</p>
+				<ul>
+					<li><a href="#"><img src="http://www.w3newbie.com/wp-content/uploads/facebook.png"/></a></li>
+					<li><a href="#"><img src="http://www.w3newbie.com/wp-content/uploads/googleplus.png"/></a></li>
+					<li><a href="#"><img src="http://www.w3newbie.com/wp-content/uploads/twitter1.png"/></a></li>
+					<li><a href="#"><img src="http://www.w3newbie.com/wp-content/uploads/youtube1.png"/></a></li>
+				   </ul>
+				</div>
+			<div class="section">
+				<img src=" " alt=" "/>
+			<embed src="Here's To Life-Shirley Horn.mp3" autostart="true" loop="false" width="100" height="100">
+			</div>
+		</footer>
+
+	</div>
+		<p style="text-align: center; padding: 0px;">&#169;copyright- Remember Me LLC, 2014 </p>
+
+
+
+
+</body>
+
+
+</html>
